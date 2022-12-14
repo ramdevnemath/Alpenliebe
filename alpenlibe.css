@@ -1,0 +1,361 @@
+body{
+    margin: 0%;
+}
+.all{
+    width: 100%;
+    height:auto;
+}
+.header{
+    background-color: white;
+    width: 100%;
+    height: 100px;
+}
+.headpart1{
+    float: left;
+    width: 288px;
+    height: 100%;
+}
+.logopart{
+    float: left;
+    height: 100%;
+    width: 167px;
+}
+.logo{
+    margin-top: 20px;
+}
+.headpart2{
+    float: left;
+    width: 75px;
+    height: 100%;
+}
+.headpart3{
+    height: 100%;
+    width: 127px;
+    float: left;
+}
+.who{
+    font-size: 18px;
+    font-family: "vagRounded", Helvetica, Arial, sans-serif;
+    color: #2d3b94;
+    float: right;
+    margin-top: 65px;
+}
+.who:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+.headpart4{
+    padding-top: 65px;
+    height: 20px;
+    width: 123px;
+    float: left;
+}
+.brands{
+    float: right;
+    font-size: 18px;
+    font-weight: bolder;
+    color: #2d3b94;
+    font-family: "vagRoundedBold", Helvetica, Arial, sans-serif;
+}
+.brands:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+.cmpny{
+    float: left;
+    height: 55px;
+    width: 500px;
+}
+.button{
+    margin-left: 15px;
+    font-family: "vagRoundedBold", Helvetica, Arial, sans-serif;
+    border: 1px solid #d9d9d9;
+    color: #8a8a8a;
+    float: left;
+    border-radius: 20px;
+    line-height: 34px;
+    padding: 0 15px;
+}
+a.button:hover{
+    font-family: "vagRoundedBold", Helvetica, Arial, sans-serif;
+    cursor: pointer;
+    color: white;
+    background: #424e9e;
+    box-shadow: inset 0px 2px 0 2px #313a76;
+}
+.liststyle{
+    list-style: none;
+}
+.headbottomlist{
+    float: left;
+    width: 700px;
+    height: 50%;
+}
+.bottomlist{
+    margin-right: 25px;
+    font-size: 18px;
+    font-family: "vagRounded", Helvetica, Arial, sans-serif;
+    color: #2d3b94;
+    float: left;
+    margin-top: -6px;
+}
+.bottomlist:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+.inlogo{
+    margin-top: -9px;
+    float: left;
+}
+.twilogo{
+    margin-left: 25px;
+    margin-top: -6px;
+    float: left;
+}
+.inlogo:hover{
+    cursor: pointer;
+}
+.twilogo:hover{
+    cursor: pointer;
+}
+
+
+.bodyhead{
+    clear: left;
+    height: 80px;
+    width: 100%;
+    background: #7e0e73;
+}
+.partbrown{
+    height: 640px;
+    width: 100%;
+    background: #c87f21;
+}
+.first{
+    height: 345px;
+    width: 100%;
+}
+.second{
+    height: 350px;
+    width: 100%;
+}
+.bodyheadpart1{
+    width: 288px;
+    float: left;
+    height: 100%;
+}
+.bodyheadpart2{
+    margin-top: 20px;
+    width: 172px;
+    height: 60px;
+    float: left;
+}
+.bodyheadpart3{
+    margin-top: 20px;
+    width: 170px;
+    float: left;
+    height: 60px;
+}
+.bodyheadpart4{
+    padding-right: 20px;
+    margin-top: 20px;
+    width: 220px;
+    height: 60px;
+    float: left;
+}
+.bodyheadpart5{
+    margin-top: 20px;
+    height: 60px;
+    float: left;
+    width: 180px;
+}
+.bodyheadpart6{
+    height: 100%;
+    width: 469px;
+    float: left;
+}
+.overview{
+    font-size: 28px;
+    font-family: "vagRounded", Helvetica, Arial, sans-serif;
+    color: white;
+    float: left;
+}
+.overview:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+.mentos{
+    font-size: 28px;
+    font-family: "vagRounded", Helvetica, Arial, sans-serif;
+    color: white;
+    float: left;
+}
+.mentos:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+.chupa{
+    font-size: 28px;
+    font-family: "vagRounded", Helvetica, Arial, sans-serif;
+    color: white;
+    float: left;
+}
+.chupa:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+.alpenliebe{
+    font-weight: bolder;
+    font-size: 28px;
+    font-family: "vagRounded", Helvetica, Arial, sans-serif;
+    color: white;
+    float: left;
+}
+.alpenliebe:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+.brownleft{
+    
+    width: 50%;
+    float: left;
+    height: 100%;
+}
+.brownright{
+    width: 50%;
+    height: 100%;
+    float: left;
+}
+.brownhead{
+    margin-top: 50px;
+    margin-left: 250px;
+    font-family: "vagRoundedBold", Helvetica, Arial, sans-serif;
+    font-size: 60px;
+    color: white;
+    float: left;
+}
+.browntail{
+    margin-left: 250px;
+    margin-top: 30px;
+    font-family: "vagRoundedBold", Helvetica, Arial, sans-serif;
+    font-size: 28px;
+    float:left;
+    color: white;
+}
+.brownfoot{
+    margin-left: 250px;
+    margin-top: 30px;
+    font-family: "vagRoundedBold", Helvetica, Arial, sans-serif;
+    font-size: 34px;
+    float: left;
+    color: white;
+}
+.firsthalf{
+    margin-top: 70px;
+    /* width: 50%; */
+    height: 100%;
+    /* display: inline; */
+}
+.firsthalf2{
+    height: 100%;
+    width: 30%;
+    /* display: inline; */
+}
+.firsthead{
+    margin-left: 20px;
+    float: left;
+    margin-top: 80px;
+    font-size: 34px;
+    color: #2d3b94;
+    font-family: "vagRoundedBold", Helvetica, Arial, sans-serif;
+}
+.firsttail{
+    margin-left: 20px;
+    float: left;
+    margin-top: -15px;
+    font-size: 16px;
+    color: black;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.display-inline{
+    display: inline;
+}
+.display-block{
+    display: block;
+}
+
+.dflex{
+    display: flex;
+    justify-content: center;
+}
+.secondhalf{
+     width: 480px;
+    height: 100%;
+}
+.secondhalf2{
+    display: inline-block;
+    height: 100%;
+    width: 25%;
+}
+.secondhead{
+    margin-left: 20px;
+    float: left;
+    margin-top: 70px;
+    font-size: 34px;
+    color: #2d3b94;
+    font-family: "vagRoundedBold", Helvetica, Arial, sans-serif;
+}
+.secondtail{
+    margin-left: 20px;
+    float: left;
+    margin-top: -15px;
+    font-size: 16px;
+    color: black;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.lap{
+    height: 309px;
+    width: 100%;
+}
+.bottom{
+    margin-left: 150px;
+}
+.footer{
+    float: left;
+    background-color: #2d3b94;
+    width: 100%;
+    height: 92px;
+}
+.underlap{
+    background-color: #2d3b94;
+    width: 100%;
+    height: 50px;
+}
+.foottext{
+    color: white;
+    font-size: 15px;
+    font-family: "vagRoundedBold", Helvetica, Arial, sans-serif;
+}
+.margin{
+    margin-top: 40px;
+}
+.text1{
+    margin-left: 333px;
+    width: 155px;
+}
+.texts{
+    float: right;
+    display: inline-block;
+    margin-right: 44px;
+    top: -33px;
+    position:relative;
+    font-family: "vagRoundedBold", Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    color: white;
+    list-style-type: none;
+}
+.texts:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
